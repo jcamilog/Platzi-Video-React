@@ -1,0 +1,8 @@
+body {
+    margin: 0px;
+    background-color: #8F57FD;
+    font-family: 'Muli', sans-serif;
+}
+* {
+    box-sizing: border-box;
+}
